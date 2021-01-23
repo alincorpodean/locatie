@@ -14,7 +14,7 @@ function on_success(position){
 
  
 
-     var img_url = "https://maps.googleapis.com/maps/api/staticmap?center="+latlon+"&zoom=17&size=400x300&key=AIzaSyABzgIgAbsUBc3yn5l8xyBwsaOvvZdKUx4";
+     var img_url = "https://maps.googleapis.com/maps/api/staticmap?center="+latlon+"&zoom=17&size=400x300&key=AIzaSyDip_gcv5qSM1SB3P9hSMfXRT0LYZ6KxcU";
 
  
 
